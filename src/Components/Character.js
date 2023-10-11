@@ -1,6 +1,8 @@
 import React, { useState } from 'react'
 import './character.css'
 
+import { BsDownload } from 'react-icons/bs'
+
 function Character({name, sounds, soundNames}) {
   const [audio] = useState(new Audio());
 
@@ -16,8 +18,11 @@ function Character({name, sounds, soundNames}) {
       </div>
       <div className="Sounds">
         {
-          sounds.map((sound, index) => {
-            return <button className="SoundsBtn" value={sound} key={index} onClick={handleAudioPlay}>{soundNames[index]}</button>
+          sounds.map((sounds, index) => {
+            return <div className="SoundDownloadCon">
+            <button className="SoundsBtn" value={sounds} key={index} onClick={handleAudioPlay}>{soundNames[index]}</button>
+            <a href={sounds} className="DownloadCon" key={index} download > <BsDownload/> </a>
+            </div>
           })
         }
         {sounds.length === 0 && <p>No Sounds Available for <span>{name}</span></p>}

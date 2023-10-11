@@ -50,3 +50,10 @@
     font-weight: 500;
     color: white;
 }
+
+
+.DownloadCon {
+    gap: .8rem;
+    color: aliceblue;
+    text-decoration: none;
+}
