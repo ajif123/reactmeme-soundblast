@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/reactmeme-soundblast/static/css/main.1d7e7df8.css",
+    "main.js": "/reactmeme-soundblast/static/js/main.ad1d1b3f.js",
+    "static/media/sixconsoles.mp3": "/reactmeme-soundblast/static/media/sixconsoles.2cac2ae5160a619c1879.mp3",
+    "static/media/jermateacher.mp3": "/reactmeme-soundblast/static/media/jermateacher.54ed3d2faae0ff3f346c.mp3",
+    "static/media/tyler1car.mp3": "/reactmeme-soundblast/static/media/tyler1car.52c4b13c2dafef5b8b83.mp3",
+    "static/media/vine.jpg": "/reactmeme-soundblast/static/media/vine.83cc23de6a169a6a4dab.jpg",
+    "static/media/twitch.jpg": "/reactmeme-soundblast/static/media/twitch.1da3a7e98050640a1f92.jpg",
+    "static/media/woobaby.mp3": "/reactmeme-soundblast/static/media/woobaby.64d24750b5f2c6f47851.mp3",
+    "static/media/flightreact.mp3": "/reactmeme-soundblast/static/media/flightreact.2f7e70227dd24c2d4009.mp3",
+    "static/media/waltsus.mp3": "/reactmeme-soundblast/static/media/waltsus.747552ad57f7c048cefc.mp3",
+    "static/media/boom.mp3": "/reactmeme-soundblast/static/media/boom.b4afe6ebcab2af994b2e.mp3",
+    "static/media/logo.png": "/reactmeme-soundblast/static/media/logo.ba91366e8b978f244538.png",
+    "static/media/breakingbad.jpg": "/reactmeme-soundblast/static/media/breakingbad.e82d04f2273c4bf4cda2.jpg",
+    "static/media/ohmygod.mp3": "/reactmeme-soundblast/static/media/ohmygod.5f7e4b32d50e55b8b3db.mp3",
+    "static/media/tyrone.mp3": "/reactmeme-soundblast/static/media/tyrone.b5d5302d962cab43114b.mp3",
+    "static/media/gustavosus.mp3": "/reactmeme-soundblast/static/media/gustavosus.497ebfe22915ec8a1869.mp3",
+    "static/media/africa.jpg": "/reactmeme-soundblast/static/media/africa.d8d7325ca2b19660928a.jpg",
+    "static/media/gwe.mp3": "/reactmeme-soundblast/static/media/gwe.9fb1d9ef8e8a4de36721.mp3",
+    "static/media/action.mp3": "/reactmeme-soundblast/static/media/action.d831a90df88522b5c94e.mp3",
+    "static/media/lookatme.mp3": "/reactmeme-soundblast/static/media/lookatme.d6ec5538875fb71de909.mp3",
+    "static/media/welcome.mp3": "/reactmeme-soundblast/static/media/welcome.506044769052721b5bd6.mp3",
+    "static/media/amogus.mp3": "/reactmeme-soundblast/static/media/amogus.ebb54be1039f7b1a7ae2.mp3",
+    "static/media/waltuh.mp3": "/reactmeme-soundblast/static/media/waltuh.a101d68380e672bb1267.mp3",
+    "index.html": "/reactmeme-soundblast/index.html",
+    "main.1d7e7df8.css.map": "/reactmeme-soundblast/static/css/main.1d7e7df8.css.map",
+    "main.ad1d1b3f.js.map": "/reactmeme-soundblast/static/js/main.ad1d1b3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d7e7df8.css",
+    "static/js/main.ad1d1b3f.js"
+  ]
+}
